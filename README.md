@@ -1,2 +1,2 @@
-# rocket
+# Rocket
 Project about aerospatial engineering
